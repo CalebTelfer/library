@@ -1,0 +1,10 @@
+#newBookButton {
+    display: block;
+    margin: auto;
+    height: 5vh;
+    width: 5vw;
+}
+
+h1, h2, h3, h4, p {
+    text-align: center;
+}
